@@ -1,0 +1,7 @@
+vendor
+.idea
+.git
+.env
+config/dev
+log
+.gitlab-ci.yml
